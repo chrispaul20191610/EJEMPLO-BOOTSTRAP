@@ -1,0 +1,29 @@
+body {
+	text-transform: lowercase;
+}
+
+nav.navbar {
+	height: 100px;
+}
+
+.main-menu {
+	justify-content: flex-end;
+}
+
+.main-header {
+	background-color: #FFE1BC;
+}
+
+.btn-dark {
+	border-radius: 25px;
+}
+
+.btn-primary:hover {
+	background-color: #ffffff;
+	color: #000000;
+	border-color: #000000;
+}
+
+.section-title {
+	text-align: center;
+}
